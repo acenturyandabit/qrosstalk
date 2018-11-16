@@ -1,7 +1,6 @@
 # qrosstalk
 QR code based offline data transfer.
-There's no API - the code is very simple so just modify it and use it as you please. I'll get around to formalising it when I get around to formalising it.
-
+There's no API - the code is very simple so just modify it and use it as you please. I'll get around to formalising it when I get around to formalising it. :3
 
 # Credits to:
 QR code generation:
